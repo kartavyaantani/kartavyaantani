@@ -1,16 +1,23 @@
 # Hello, I'm Kartavya Antani:
-![Profile Image](Toon.png)
-
-- 🎓 **Final semester B.Tech (Computer Science)** student at **Manipal Institute of Technology**  
-- ☁️ Currently working on a **cloud-based virtual apparatus** aiding in an easy information processing cycle  
-- 🚀 Interested in **Cloud Computing, DevOps, containerization, and scalable systems**  
-- 🤝 Open to collaborating on **cloud-native projects** focused on **scalability & containers**  
-- 📚 Currently learning **SAP ERP Implementations**  
-- 💬 Ask me about *anything* — I’m an aspiring polymath; if I don’t know it yet, I’ll learn it  
-- 📸 Fun fact: I’m also a **professional photographer**  
-  👉 [Instagram: shutterbug_clicks_071](https://www.instagram.com/shutterbug_clicks_071)
-
-
+<table>
+  <tr>
+    <td>
+      <img src="toon.png" alt="Profile Image" width="100" />
+    </td>
+    <td>
+      <ul>
+        <li>🎓 <b>Final semester B.Tech (Computer Science)</b> student at <b>Manipal Institute of Technology</b></li>
+        <li>☁️ Currently working on a <b>cloud-based virtual apparatus</b> aiding in an easy information processing cycle</li>
+        <li>🚀 Interested in <b>Cloud Computing, DevOps, containerization, and scalable systems</b></li>
+        <li>🤝 Open to collaborating on <b>cloud-native projects</b> focused on <b>scalability & containers</b></li>
+        <li>📚 Currently learning <b>SAP ERP Implementations</b></li>
+        <li>💬 Ask me about anything — I’m an aspiring polymath; if I don’t know it yet, I’ll learn it</li>
+        <li>📸 Fun fact: I’m also a <b>professional photographer</b><br>
+        👉 <a href="https://www.instagram.com/shutterbug_clicks_071">Instagram: shutterbug_clicks_071</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kartavya_antani_0710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kartavya-antani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antani.kartavya@gmail.com) 

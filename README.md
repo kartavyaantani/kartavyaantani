@@ -16,11 +16,10 @@
 </picture>
 
 ## 📈 LeetCode Stats:
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/KartavyaAntani?theme=dark)](https://leetcode.com/u/KartavyaAntani/)
 <!-- LeetCode Streak Card -->
 ![LeetCode Streak](https://leetcard.jacoblin.cool/KartavyaAntani?theme=dark&extension=activity)
 
+[![LeetCode Streak](https://leetcode-streak.vercel.app/?user=KartavyaAntani&theme=light)](https://leetcode.com/u/KartavyaAntani/)
 
 
 ### ✍️ Random Dev Quote

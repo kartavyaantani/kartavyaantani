@@ -15,8 +15,9 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kartavyaantani/kartavyaantani/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🧠 LeetCode Stats:
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=KartavyaAntani&theme=dark)](https://leetcode.com/KartavyaAntani/)
+## 📈 LeetCode Stats:
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/KartavyaAntani?theme=dark)](https://leetcode.com/u/KartavyaAntani/)
 
 
 

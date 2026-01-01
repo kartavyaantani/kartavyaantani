@@ -1,5 +1,15 @@
 # Hello, I'm Kartavya Antani:
- Final semester B.Tech (Computer Science) student at Manipal Institute of Technology<br> Currently working on a cloud-based virtual apparatus aiding in easy information processing cycle<br> Interested in Cloud Computing, DevOps, containerization, and scalable systems<br> Open to collaborating on cloud-native projects focused on scalability & containers<br> Currently learning SAP ERP Implementations <br> Ask me about anything — I’m an aspiring polymath; if I don’t know it yet, I’ll learn it<br> Fun fact: I’m also a professional photographer<br> Instagram: shutterbug_clicks_071
+![Profile Image](toon.png)
+
+- 🎓 **Final semester B.Tech (Computer Science)** student at **Manipal Institute of Technology**  
+- ☁️ Currently working on a **cloud-based virtual apparatus** aiding in an easy information processing cycle  
+- 🚀 Interested in **Cloud Computing, DevOps, containerization, and scalable systems**  
+- 🤝 Open to collaborating on **cloud-native projects** focused on **scalability & containers**  
+- 📚 Currently learning **SAP ERP Implementations**  
+- 💬 Ask me about *anything* — I’m an aspiring polymath; if I don’t know it yet, I’ll learn it  
+- 📸 Fun fact: I’m also a **professional photographer**  
+  👉 [Instagram: shutterbug_clicks_071](https://www.instagram.com/shutterbug_clicks_071)
+
 
 
 ## 🌐 Socials:
@@ -18,9 +28,6 @@
 ## 📈 LeetCode Stats:
 <!-- LeetCode Streak Card -->
 ![LeetCode Streak](https://leetcard.jacoblin.cool/KartavyaAntani?theme=dark&extension=activity)
-
-[![LeetCode Streak](https://leetcode-streak.vercel.app/?user=KartavyaAntani&theme=light)](https://leetcode.com/u/KartavyaAntani/)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

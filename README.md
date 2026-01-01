@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I'm Kartavya Antani:
  Final semester B.Tech (Computer Science) student at Manipal Institute of Technology<br> Currently working on a cloud-based virtual apparatus aiding in easy information processing cycle<br> Interested in Cloud Computing, DevOps, containerization, and scalable systems<br> Open to collaborating on cloud-native projects focused on scalability & containers<br> Currently learning SAP ERP Implementations <br> Ask me about anything — I’m an aspiring polymath; if I don’t know it yet, I’ll learn it<br> Fun fact: I’m also a professional photographer<br> Instagram: shutterbug_clicks_071
 
 

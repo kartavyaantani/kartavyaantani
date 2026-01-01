@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="Toon.png" alt="Profile Image" width="100" />
+      <img src="Toon.png" alt="Profile Image" width="150" />
     </td>
     <td>
       <ul>

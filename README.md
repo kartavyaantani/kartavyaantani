@@ -18,6 +18,8 @@
 ## 📈 LeetCode Stats:
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/KartavyaAntani?theme=dark)](https://leetcode.com/u/KartavyaAntani/)
+<!-- LeetCode Streak Card -->
+![LeetCode Streak](https://leetcard.jacoblin.cool/KartavyaAntani?theme=dark&extension=activity)
 
 
 

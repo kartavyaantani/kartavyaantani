@@ -1,5 +1,5 @@
 # Hello, I'm Kartavya Antani:
-![Profile Image](kartavyaantani/toon.png)
+![Profile Image](Toon.png)
 
 - 🎓 **Final semester B.Tech (Computer Science)** student at **Manipal Institute of Technology**  
 - ☁️ Currently working on a **cloud-based virtual apparatus** aiding in an easy information processing cycle  
